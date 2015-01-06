@@ -74,7 +74,7 @@ bool					ActionWord::Add
 bool					ActionWord::Delete
 //						==================
 (
-	const string&		strActionWord	// action word name 
+	const string&		strActionWord	// action word name
 )
 {
 	bool bDeleteResult = false;	// states whether or not the delete was performed succesfully
